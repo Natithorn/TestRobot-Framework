@@ -14,5 +14,4 @@ When user login to future skill platform with ${email} and ${firstname} and ${la
     CommonKeywords.Wait until element is ready then click element    xpath=//input[@type="checkbox"]
     CommonKeywords.Wait until element is ready then click element    xpath=//button[text()="สมัครสมาชิก"]
 
-Verify OTP Page Message
-    CommonKeywords.Wait until page contains element then verify text    "ระบบได้ส่งรหัส OTP ไปยังเบอร์โทรศัพท์"
+
